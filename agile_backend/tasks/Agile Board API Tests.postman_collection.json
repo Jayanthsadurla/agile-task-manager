@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "97ff63cb-489b-4b9d-92d7-c26a1f340d91",
+		"name": "Agile Board API Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49523017",
+		"_collection_link": "https://sadurlajayanth-4493299.postman.co/workspace/Sadurla-Jayanth's-Workspace~0c0d5202-237b-4e9a-8aed-8b10064241f3/collection/49523017-97ff63cb-489b-4b9d-92d7-c26a1f340d91?action=share&source=collection_link&creator=49523017"
+	},
+	"item": [
+		{
+			"name": "Get All Sprints",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create Sprint",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Sprint Board",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create Task",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Update Task Status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
