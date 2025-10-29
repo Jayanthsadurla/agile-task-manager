@@ -122,7 +122,7 @@ Ensure the backend is running simultaneously for API calls to succeed.
 | `/api/tasks/<id>/` | PUT    | Update an existing task  |
 | `/api/tasks/<id>/` | DELETE | Delete a task            |
 
-Developer
+## Developer
 
 Jayanth Sadurla
 B.Tech CSE (Data Science), Class of 2026
