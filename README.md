@@ -79,16 +79,15 @@ agile-task-manager/
 
 ---
 
-## Backend Setup
+# Backend Setup
 
 ### 1. Navigate to the backend directory
-```bash
 cd agile_backend
 
 ### 2. Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate        # On Windows
-# OR
+
 source venv/bin/activate     # On Linux/Mac
 
 ### 3. Install dependencies
@@ -97,19 +96,20 @@ pip install django djangorestframework
 ### 4. Run migrations
 python manage.py migrate
 
-### 5. Start the development server
+## 5. Start the development server
 python manage.py runserver
 Your backend will run at:
 http://127.0.0.1:8000/
+
 ---
 
 ## Frontend Setup
 
-1. Navigate to the frontend directory
+## 1. Navigate to the frontend directory
 cd agile-frontend
-2. Install dependencies
+## 2. Install dependencies
 npm install
-3. Start the React app
+## 3. Start the React app
 npm start
 Your frontend will run at:
 http://localhost:3000/
