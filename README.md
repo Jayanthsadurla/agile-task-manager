@@ -84,19 +84,24 @@ agile-task-manager/
 ### 1. Navigate to the backend directory
 ```bash
 cd agile_backend
-2. Create and activate a virtual environment
+
+### 2. Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate        # On Windows
 # OR
 source venv/bin/activate     # On Linux/Mac
-3. Install dependencies
+
+### 3. Install dependencies
 pip install django djangorestframework
-4. Run migrations
+
+### 4. Run migrations
 python manage.py migrate
-5. Start the development server
+
+### 5. Start the development server
 python manage.py runserver
 Your backend will run at:
 http://127.0.0.1:8000/
+---
 
 ## Frontend Setup
 
